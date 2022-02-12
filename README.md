@@ -17,7 +17,7 @@
  3. 修改 `README.md`，将 `bclswl0827/v2ray-heroku` 替换为自己的内容（如 `example/demo`）
 
 > [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/daoxiaobao
-/v2ray-heroku)
+/qqrrs)
 
  4. 回到专案首页，点击上面的链接以部署 V2Ray
 
